@@ -4,5 +4,5 @@ I’m using GitHub because, well, Google Drive has space limits.
 ---
 
 If you’re here to talk projects or build something, I’m all ears. Drop a message anytime.
-[Email me](dsjikt@duck.com)
+[Email me](mailto:dsjikt@duck.com)
 
